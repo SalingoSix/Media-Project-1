@@ -1,0 +1,11 @@
+assets/sfx/Crowd_Chatter.mp3 Crowd
+assets/sfx/Bar_Crossroads.mp3 Crossroads
+assets/sfx/Disco_Jam.mp3 Disco_Jam
+assets/sfx/male_retch.mp3 Retch
+assets/sfx/button_press.mp3 Button
+assets/sfx/dish_break.mp3 Smash
+assets/sfx/footstep_1.mp3 Step_1
+assets/sfx/footstep_2.mp3 Step_2
+assets/sfx/throat_clear.mp3 Throat_Clear
+assets/sfx/water_pour.mp3 Drink_Pour
+
